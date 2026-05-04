@@ -15,15 +15,11 @@ Movie Library — это десктопное приложение для вед
 - Автоматическое сохранение в JSON файл
 - Загрузка данных при запуске программы
 
-## Технологии
-
-- Python 3.7+
-- Tkinter (GUI)
-- JSON (хранение данных)
-
 ## Установка и запуск
 
-1. **Клонирование репозитория:**
+1. Убедитесь, что установлен Python 3.6+
+2. Скачайте файл `main.py`
+3. Запустите:
+
 ```bash
-git clone https://github.com/yourusername/movie-library.git
-cd movie-library
+python main.py
